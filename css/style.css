@@ -1,0 +1,9 @@
+*
+{
+    box-sizing: border-box;
+}
+.btn:focus {
+   
+    box-shadow: none !important;
+}
+
